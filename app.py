@@ -4,6 +4,9 @@ import smtplib
 
 app = Flask(__name__)
 app.secret_key = 'many random bytes'
+# Python Flask app with two routes rendering index.html template.
+
+
 @app.route("/")
 @app.route('/home',methods = ['POST','GET'])
 def home():
@@ -55,7 +58,9 @@ def contact():
     
     except:
         return render_template("404.html")
-    
+@app.route("/car",methods = ["post","get"])
+def car():
+    return render_template("car.html")
     
     
 if __name__ == '__main__':
