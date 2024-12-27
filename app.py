@@ -19,7 +19,7 @@ def project():
 
 @app.route("/download",methods = ["post","get"])
 def download():
-    path = "documents\jibran_resume.pdf"
+    path = "documents\jibran_javed_sheikh_1.pdf"
     return send_file(path, as_attachment=True)
 
 
