@@ -1,6 +1,6 @@
 ![STRIDE GPT Logo](static/images/projects/portfolio1.PNG)
 
-Welcome to my portfolio! This repository showcases my work as a Full-Stack Web Developer and Android App Developer. Here, you will find various projects I have developed and details about my skills, education, and experience.
+Welcome to my portfolio! This repository showcases my work as a Full-Stack Web Developer and Android App Developer. Here, you will find various projects I have developed and details about my skills, education, and experience https://jibran1998.pythonanywhere.com/.
 
 ## Table of Contents
 
