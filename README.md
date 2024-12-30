@@ -1,3 +1,4 @@
+![STRIDE GPT Logo](static/images/projects/portfolio1.PNG)
 Welcome to my personal portfolio! This repository showcases my work as a Full-Stack Web Developer and Android App Developer. Here, you will find various projects that I have developed, along with details about my skills, education, and experience.
 
 Table of Contents
